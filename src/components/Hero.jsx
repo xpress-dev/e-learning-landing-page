@@ -34,7 +34,7 @@ const Hero = () => {
           backgroundRepeat: 'no-repeat',
         }}
       ></div>
-      <img src={mobileHeroImage} className='sm:hidden' />
+      <img src={mobileHeroImage} className='sm:hidden max-w-xl mx-auto' />
     </section>
   );
 };

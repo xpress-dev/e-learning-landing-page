@@ -7,6 +7,10 @@ export default {
         sans: "'Plus Jakarta Sans', sans-serif",
       },
     },
+    screens: {
+      sm: '847px',
+      lg: '1240px',
+    },
   },
   plugins: [],
 };
