@@ -1,4 +1,4 @@
-# Results Summary Component
+# Skilled e-learning Landing Page
 
 This is a responsive implementation of the skilled e-learning landing page.
 
