@@ -19,7 +19,7 @@ const Hero = () => {
       </div>
       <div className='flex-1 hidden sm:block'>&nbsp;</div>
       <div
-        className='absolute top-0 right-0 w-1/2 h-[35rem] -z-50 hidden sm:block lg:hidden'
+        className='absolute top-0 right-0 w-1/2 h-[35rem] -z-10 hidden sm:block lg:hidden'
         style={{
           backgroundImage: `url('${tabletHeroImage}')`,
           backgroundPosition: '10% 60%',
@@ -27,7 +27,7 @@ const Hero = () => {
         }}
       ></div>
       <div
-        className='absolute top-0 right-0 w-1/2 h-[45rem] -z-50 hidden lg:block'
+        className='absolute top-0 right-0 w-1/2 h-[45rem] -z-10 hidden lg:block'
         style={{
           backgroundImage: `url('${desktopHeroImage}')`,
           backgroundPosition: '10% 90%',

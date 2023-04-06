@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <main className='overflow-x-hidden bg-slate-50'>
+    <main className='overflow-x-hidden'>
       <Header />
       <Hero />
       <Courses />
