@@ -13,7 +13,7 @@ const Hero = () => {
           Our modern courses across a range of in-demand skills will give you
           the knowledge you need to live the life you want.
         </p>
-        <button className='px-8 py-4 text-white bg-gradient-to-b from-[#ff6f48] to-[#f02aa6] rounded-full w-40 font-semibold mt-5'>
+        <button className='px-8 py-4 text-white bg-gradient-to-b from-[#ff6f48] to-[#f02aa6] rounded-full w-40 font-semibold mt-5 hover:opacity-50'>
           Get Started
         </button>
       </div>

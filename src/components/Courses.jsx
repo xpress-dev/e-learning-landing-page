@@ -7,7 +7,7 @@ import cryptoIcon from '../assets/icon-crypto.svg';
 import businessIcon from '../assets/icon-business.svg';
 const Courses = () => {
   return (
-    <section className='w-full p-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10'>
+    <section className='w-full p-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 max-w-7xl mx-auto'>
       <div className='bg-gradient-to-b from-[#ff6f48] to-[#f02aa6] text-white p-6 rounded-2xl w-[22rem] sm:h-[15rem] font-bold text-2xl mx-auto'>
         <p>Check out our most popular courses!</p>
       </div>
